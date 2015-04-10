@@ -1,6 +1,6 @@
 # moDNAr
 
-A simple command line tool for testing bioinformatics applications.
+A simple command line tool for testing new bioinformatics applications.
 
 The user specifies a length, and moDNAr returns a random sequence of DNA bases (A, C, G, T).
 
