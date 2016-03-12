@@ -31,6 +31,6 @@ def choose(dist):
 c = choose(pi)
 for i in range(n - 1):
     sys.stdout.write(c)
-    c = choose(tm[c])
+    c = choose(pm[c])
 sys.stdout.write(c)
 sys.stdout.write("\n")
